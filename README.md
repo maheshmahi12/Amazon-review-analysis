@@ -1,4 +1,4 @@
-Sentiment Analysis of Amazon Product Reviews
+Analysis of Amazon Product Reviews
 
 Project Overview
 
